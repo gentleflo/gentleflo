@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=NA%20EUN&fontSize=70&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=deveolper%20gentleflo&fontSize=70&animation=fadeIn&fontAlignY=38)
 
 
 <h3 align="center"><b>:email: Contact </b></h3>
