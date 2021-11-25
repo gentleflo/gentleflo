@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=deveolper%20gentleflo&fontSize=70&animation=fadeIn&fontAlignY=38)
 
 
-<h3 align="center"><b>:email: Contact </b></h3>
+<!-- <h3 align="center"><b>:email: Contact </b></h3>
 <img src="https://img.shields.io/badge/EA4335?style=flat-square&logo=Gmail&logoColor=white&link=[mailto:gentleflo0106@gmail.com]"/>
-</br>
+</br> -->
 
 
 <h3 align="center"><b>:key: Tech Stack</b></h3>
