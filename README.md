@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 
 <h3 align="center"><b>:email: Contact </b></h3>
-<a href="[mailto:gentleflo0106@gmail.com]"><img src="https://img.shields.io/badge/EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/EA4335?style=flat-square&logo=Gmail&logoColor=white&link=[mailto:gentleflo0106@gmail.com]"/>
 </br>
+
 
 <h3 align="center"><b>:key: Tech Stack</b></h3>
 </br>
